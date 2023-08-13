@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, eu sou o Rafael!
 
-<!--
-**faael-oliveira/faael-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End em constante evolução, apaixonado por transformar códigos em experiências digitais incríveis. 🚀
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Git & GitHub
+
+🌱 Atualmente estou focado em aprimorar minhas habilidades em:
+
+- JavaScript
+
+## Projetos Destacados
+
+### SPNLab
+
+O SPNLab é um projeto em que estou trabalhando para criar uma presença online estratégica para pequenos negócios. Utilizo minhas habilidades em HTML5 e CSS3 para construir sites profissionais e responsivos que cativam visitantes e geram conversões.
+
+## Filosofia de Aprendizado
+
+"Ouço falarem que o esforço vence o talento." - Major RD
+
+Acredito que o esforço e a dedicação são fundamentais para alcançar o sucesso no mundo do desenvolvimento. A cada linha de código escrita, estou progredindo em direção ao meu objetivo de me tornar um desenvolvedor FullStack completo.
+
+Vamos conectar? 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeloliveira1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519971184512)
+
+**"O sucesso é a soma de pequenos esforços repetidos dia após dia."**
