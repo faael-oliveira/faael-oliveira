@@ -18,7 +18,7 @@ Desenvolvedor Front-End em constante evolução, apaixonado por transformar cód
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faael-oliveira&repo=SPNLab)](https://github.com/faael-oliveira/SPNLab)
 
-O SPNLab é um projeto em que estou trabalhando para criar uma presença online estratégica para pequenos negócios. Utilizo minhas habilidades em HTML5 e CSS3 para construir sites profissionais e responsivos que cativam visitantes e geram conversões.
+O SPNLab é um projeto em que estou trabalhando para criar uma presença online estratégica para pequenos negócios. Utilizo minhas habilidades em HTML5, CSS3 e JavaScript para construir sites profissionais e responsivos que cativam visitantes e geram conversões.
 
 ## Filosofia de Aprendizado
 
