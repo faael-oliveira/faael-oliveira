@@ -6,11 +6,9 @@ Desenvolvedor Front-End em constante evolução, apaixonado por transformar cód
 
 - HTML5
 - CSS3
+- JavaScript
 - Git & GitHub
 
-🌱 Atualmente estou focado em aprimorar minhas habilidades em:
-
-- JavaScript
 
 ## Filosofia de Aprendizado
 
